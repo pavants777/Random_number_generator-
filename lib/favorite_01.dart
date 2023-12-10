@@ -13,6 +13,7 @@ class Favorite extends StatelessWidget {
       return Center(
         child: Text('No favorites yet.'),
       );
+      
     }
 
     return ListView(
